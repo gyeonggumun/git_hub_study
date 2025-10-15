@@ -6,6 +6,8 @@ public class Test {
 		System.out.println("test 출력");
 		System.out.println("test 출력");
 		System.out.println("test 출력");
+		System.out.println("test 출력");
+		System.out.println("test 출력");
 	}
 }
 
